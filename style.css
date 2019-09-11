@@ -1,0 +1,47 @@
+html{
+    background-color: #cabfb6;   
+}
+
+body{
+    font-family: 'open Sans';
+    margin:0px auto;
+    width: 600px;
+    padding: 30px 100px;
+    background-color: white;
+}
+
+h2{
+    font-family: 'Proza Libre'
+}
+
+a:hover{
+    border: 2px solid rgb(0, 0, 0);  
+}
+
+.Apple{
+   background-color: #b6bcca;
+   
+}
+
+.Android{
+    background-color: #a4c93b;
+    
+}
+button{
+    font-size: 20px;
+    padding:5px 20px;
+    border-radius: 4px;
+}
+
+a {
+    background-color: #c9793b;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+hr {
+    margin-top: 50px;
+}
